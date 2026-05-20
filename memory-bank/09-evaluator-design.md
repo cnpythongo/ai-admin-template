@@ -144,7 +144,6 @@ Step 5: 生成报告
 
 ```bash
 # 在项目根目录执行
-cd /Users/lyhapple/workspace/mycompany/ai-admin
 uv run python scripts/evaluator.py
 
 # 指定输出文件
